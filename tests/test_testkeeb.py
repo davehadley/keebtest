@@ -1,4 +1,4 @@
-from testkeeb import __version__
+from keebtest import __version__
 
 
 def test_version():
