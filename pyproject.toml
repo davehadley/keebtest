@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "testkeeb"
+name = "keebtest"
 version = "0.1.0"
-description = ""
+description = "Simple script to test under construction mechanical keyboards."
 authors = ["David Hadley <davehadley@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
